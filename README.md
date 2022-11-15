@@ -40,30 +40,50 @@
     - References
       - [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
       - [Function expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function)
-- (week#7) _`Objects`_
+- (week#7-8) _`Objects`_
 
   - [git repo](https://github.com/umaporn-sup/1-2565-INT201-objects.git)
   - References
-    - [objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+    - [Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
     - [Spread in Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax#spread_in_object_literals)
     - [Object Destructuring](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment#object_destructuring)
     - [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 
-- _`Array Methods`_
-  - [git repo]
-  - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#instance_methods)
-- _`Functions`_
-  - [git repo]
-  - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
-- _`JavaScript Modules`_
-  - [git repo]
-  - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
-- _`Document Object Model (DOM)`_
-  - [git repo]
-  - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
-- _`Events`_
-  - [git repo]
-  - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/API/Event)
+- (week#8-9) _`Working Functions`_
+  - [git repo](https://github.com/umaporn-sup/1-2565-INT201-working-functions.git)
+  - References
+    - [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+    - [Arrow Function Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+    - [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+    - [Arguments Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/arguments)
+    - [Default Parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
+    - [Rest Parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters)
+    - [Destructuring Assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment#:~:text=The%20destructuring%20assignment%20syntax%20is,from%20objects%2C%20into%20distinct%20variables.)
+- (week#9-10) _`Array Methods`_
+
+  - [git repo](https://github.com/umaporn-sup/1-2565-INT201-array-methods.git)
+  - References
+    - [Array Methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#instance_methods)
+
+- (week#10-11) _`JavaScript Modules`_
+
+  - [git repo](https://github.com/umaporn-sup/1-2565-INT201-js-modules.git)
+  - References
+    - [JavaScript Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+    - [import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
+    - [export](https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export)
+
+- (week#12-13) _`Document Object Model (DOM)`_
+  - [git repo](https://github.com/umaporn-sup/1-2565-INT201-dom.git)
+  - Reference
+    - [Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+- (week#13-14) _`Events`_
+
+  - [git repo](https://github.com/umaporn-sup/1-2565-INT201-events.git)
+  - References
+    - [Introduction to events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
+    - [Event Interface](https://developer.mozilla.org/en-US/docs/Web/API/Event)
+
 - _`Client Side Storages`_
   - [git repo]
   - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Client-side_storage)
